@@ -6,7 +6,7 @@ provider:
   name: aws # Cloud service provider
   runtime: nodejs8.10 # Node.js Runtime
   stage: dev # Development ENV
-  region: us-west-2 # AWS Region
+  region: us-east-1 # AWS Region
 
 functions:
   hello: # Lambda function
